@@ -27,7 +27,7 @@ public class BubbleSort {
 		// Bubble sort
 		/*
 		 * (arr.length-1) bcoz in bubble sort we compare elements in pairs like 0th and
-		 * 1st index value, 1st and 2nd index value
+		 * 1st index value, 1st and second index value
 		 */
 		for (int i = 0; i < arr.length - 1; i++) {
 			/*
