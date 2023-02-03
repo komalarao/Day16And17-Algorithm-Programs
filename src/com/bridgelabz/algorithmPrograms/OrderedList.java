@@ -48,7 +48,7 @@ public class OrderedList {
 		}
 	}
 
-	// PRINT METHOD
+	// PRINT METHODs
 	public void printlist() {
 		if (head == null) {
 			System.out.println("List is Empty");
