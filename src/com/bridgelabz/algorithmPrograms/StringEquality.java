@@ -12,6 +12,5 @@ public class StringEquality {
 		} else {
 			System.out.println("Both strings are not equal");
 		}
-
 	}
 }
