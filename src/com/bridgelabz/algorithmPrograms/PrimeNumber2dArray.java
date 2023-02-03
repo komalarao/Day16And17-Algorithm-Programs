@@ -39,7 +39,6 @@ public class PrimeNumber2dArray {
 				return;
 			}
 			System.out.println("Row " + rowNo); // to print rows
-
 		}
 	}
 
