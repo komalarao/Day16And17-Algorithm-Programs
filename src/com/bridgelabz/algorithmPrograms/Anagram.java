@@ -30,7 +30,6 @@ public class Anagram {
 
 			// checking whether both the sorted arrays are same or not
 			result = Arrays.equals(StringArray1, StringArray2);
-
 		}
 		// if both length and the sorted list is same then they are anagrams
 		if (result == true) {
