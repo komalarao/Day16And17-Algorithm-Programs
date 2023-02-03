@@ -10,7 +10,7 @@ public class PrimeNumbers {
 		int start = 0;// input.nextInt();
 		int stop = 1000;// input.nextInt();
 		/*
-		 * check whether the parameter passed To it is a prime number or not.
+		 * check whether the parameter passed To it is a prime number or not
 		 */
 		for (int i = start; i <= stop; i++) {
 			if (isPrime(i))
