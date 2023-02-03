@@ -53,7 +53,6 @@ public class BankCashCounter {
 	}
 
 	public void balance() {
-
 	}
 
 	public static void main(String[] args) {
